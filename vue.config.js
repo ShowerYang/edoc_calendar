@@ -12,7 +12,7 @@ module.exports = {
   // where to output built files
   outputDir: 'dist',
   // where to put static assets (js/css/img/font/...)
-  assetsDir: 'static_exceptional_days',
+  assetsDir: 'static_edoc_calendar',
   // filename for index.html (relative to outputDir)
-  indexPath: 'exceptional_days.php',  
+  indexPath: 'index.html',  
 }
