@@ -8,6 +8,7 @@ https://showeryang.github.io/edoc_calendar/ <br>
 在公文系統中，供管理者透過上班日/休息日的設定，來計算公文處理的工作日數。
 
 ### 使用技術
-Vue CLI <br>
+Vue.js(with Vue CLI) <br>
 Vuex <br>
-Scss <br>
+SCSS <br>
+Quasar Framework <br>
