@@ -12,3 +12,5 @@ Vue.js(with Vue CLI) <br>
 Vuex <br>
 SCSS <br>
 Quasar Framework <br>
+calendar-dates <br>
+autosize <br>
